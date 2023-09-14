@@ -1,0 +1,7 @@
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\移除元素\移除元素\移除元素\bin\Debug\移除元素.exe.config
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\移除元素\移除元素\移除元素\bin\Debug\移除元素.exe
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\移除元素\移除元素\移除元素\bin\Debug\移除元素.pdb
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\移除元素\移除元素\移除元素\obj\Debug\移除元素.csproj.AssemblyReference.cache
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\移除元素\移除元素\移除元素\obj\Debug\移除元素.csproj.CoreCompileInputs.cache
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\移除元素\移除元素\移除元素\obj\Debug\移除元素.exe
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\移除元素\移除元素\移除元素\obj\Debug\移除元素.pdb

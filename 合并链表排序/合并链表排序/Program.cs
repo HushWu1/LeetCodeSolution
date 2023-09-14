@@ -29,8 +29,10 @@ namespace 合并链表排序
             //排序完成后输出
             Console.WriteLine("排序后输出结果" + "\t");
             Solution.showNode(n3);
+
             Console.ReadKey();
         }
+       
 
 
     }
