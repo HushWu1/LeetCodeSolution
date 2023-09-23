@@ -1,0 +1,7 @@
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\两数之和\两数之和\bin\Debug\两数之和.exe.config
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\两数之和\两数之和\bin\Debug\两数之和.exe
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\两数之和\两数之和\bin\Debug\两数之和.pdb
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\两数之和\两数之和\obj\Debug\两数之和.csproj.AssemblyReference.cache
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\两数之和\两数之和\obj\Debug\两数之和.csproj.CoreCompileInputs.cache
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\两数之和\两数之和\obj\Debug\两数之和.exe
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\两数之和\两数之和\obj\Debug\两数之和.pdb

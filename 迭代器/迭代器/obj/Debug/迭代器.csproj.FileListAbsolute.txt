@@ -1,0 +1,7 @@
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\迭代器\迭代器\obj\Debug\迭代器.csproj.AssemblyReference.cache
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\迭代器\迭代器\obj\Debug\迭代器.csproj.CoreCompileInputs.cache
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\迭代器\迭代器\bin\Debug\迭代器.exe.config
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\迭代器\迭代器\bin\Debug\迭代器.exe
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\迭代器\迭代器\bin\Debug\迭代器.pdb
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\迭代器\迭代器\obj\Debug\迭代器.exe
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\迭代器\迭代器\obj\Debug\迭代器.pdb

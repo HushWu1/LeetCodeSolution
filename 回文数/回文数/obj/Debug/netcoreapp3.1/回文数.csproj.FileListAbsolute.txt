@@ -1,0 +1,14 @@
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\bin\Debug\netcoreapp3.1\回文数.exe
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\bin\Debug\netcoreapp3.1\回文数.deps.json
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\bin\Debug\netcoreapp3.1\回文数.runtimeconfig.json
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\bin\Debug\netcoreapp3.1\回文数.runtimeconfig.dev.json
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\bin\Debug\netcoreapp3.1\回文数.dll
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\bin\Debug\netcoreapp3.1\回文数.pdb
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\obj\Debug\netcoreapp3.1\回文数.csproj.AssemblyReference.cache
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\obj\Debug\netcoreapp3.1\回文数.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\obj\Debug\netcoreapp3.1\回文数.AssemblyInfoInputs.cache
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\obj\Debug\netcoreapp3.1\回文数.AssemblyInfo.cs
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\obj\Debug\netcoreapp3.1\回文数.csproj.CoreCompileInputs.cache
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\obj\Debug\netcoreapp3.1\回文数.dll
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\obj\Debug\netcoreapp3.1\回文数.pdb
+C:\Users\23165\Desktop\highsix\gitCase\Solution\First\回文数\回文数\obj\Debug\netcoreapp3.1\回文数.genruntimeconfig.cache
